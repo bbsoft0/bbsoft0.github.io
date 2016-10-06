@@ -1,0 +1,25 @@
+# Site settings
+title: Barbu Bujor
+header-img: img/home-bg.jpg
+email: bbsoft0@gmail.com
+copyright_name: Barbu Bujor
+description: "My personal website where you can find out about me and my projects."
+baseurl: ""
+url: "http://bbsoft0.github.io"
+twitter_username:  BarbuBujor
+github_username:  bbsoft0
+facebook_username:  barbu.bujor
+email_username:  bbsoft0@gmail.com
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
