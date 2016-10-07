@@ -83,7 +83,7 @@ Also a long term Runner, interested in health and running stories.
         <div class="panel-heading">
           <h3 class="panel-title">Other technologies used</h3>
         </div>
-        <div class="panel-body">Javascript, Html, Css, jQuery - lots of frameworks in javascript, moved to RoR - much better.
+        <div class="panel-body">Javascript, Html, Css, jQuery - lots of frameworks in javascript, moved to RoR - big step towards modern web apps.
         <br> Backbone.js, Underscode.js, Bootstrap - don't try to reinvent the wheel, have large collection of templates/snippets
         <br> Database: PostgreSQL, MySql - relations, indexing, integrity
         <br> Cross-browser, valid, ie6-able,  Website speed optimization
