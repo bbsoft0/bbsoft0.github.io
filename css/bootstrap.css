@@ -165,7 +165,7 @@ input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 fieldset {
-  padding: .35em .625em .75em;
+  padding: .15em .625em .75em;
   margin: 0 2px;
   border: 1px solid #c0c0c0;
 }
