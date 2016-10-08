@@ -119,6 +119,6 @@ Also a long term Runner, interested in health and running stories.
 <a href="https://twitter.com/BarbuBujor">twitter</a> accounts , and please visit <br>
 <div style="text-align: center">
     <a href="{{ site.baseurl }}/portfolio" class="btn btn-default">Projects Page</a>
-        <a href="{{ site.baseurl }}/resume.pdf" class="btn btn-default">Download Resume</a>
+        <a href="{{ site.baseurl }}/resumebb.pdf" class="btn btn-default">Download Resume</a>
 </div>
 </p>
