@@ -3,7 +3,7 @@ layout:     post
 title:      "A list of geek jokes"
 date:       2016-10-03 12:00:00
 author:     "Barbu Bujor"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/pink.jpg"
 ---
 
 <blockquote>
