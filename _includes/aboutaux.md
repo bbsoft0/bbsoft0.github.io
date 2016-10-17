@@ -1,6 +1,4 @@
 
-
-
 <div class="container">
     <div class="col-md-3 vcenter">
         <a href="#">
@@ -13,8 +11,8 @@
               <li><i class="fa-li fa fa-user" title="nick"></i>bbsoft0</li>
               <li><a href="mailto:pragtob@gmail.com"><i class="fa fa-li fa-envelope" title="Email"></i> bbsoft0@gmail.com</a></li>
               <li><i class="fa-li fa fa-home" title="Location"></i> Cluj Napoca, Romania</li>
-              <li><i class="fa fa-li fa-heart" title="Passionate about"></i> software development, open source, web development, clean code, good practices,  Ruby, Rails, Health, Precision Medicine,  progressive enhancement, running </li>
-              <li><i class="fa fa-li fa-suitcase" title="Work Status"></i> Building awesome applications in Ruby on Rails</li>
+              <li><i class="fa fa-li fa-heart" title="Passionate about"></i> software development, open source,  good practices, Javascript, Ruby, Rails, Python, Big Data, Deep Learning, Health, Precision Medicine,  progressive enhancement, running </li>
+              <li><i class="fa fa-li fa-suitcase" title="Work Status"></i> Full Stack Developer</li>
             </ul>
         </div>
 </div>
@@ -23,97 +21,71 @@
 
 
 
-<b>Hi. I’m Barbu</b>.
+<b>Hi. I’m Barbu </b>.
 <p>
 I'm passionate about building great applications while minimizing the artificial complexity that often creeps into projects.  </p>
-
 <p>
-Refound my enthusiasm for programming in the beautiful framework <b>Ruby on Rails </b>
- which provides his energy, enthusiasm and fighting spirit for a better tomorrow.</p>
-  I'm also interested in
+Worked as a software developer for over 10 years with a lot of languages and technologies  in building, optimizing, and delivering a "perfect" user experience. </p>
+<p> My focus in the last couple of years is <b> Javascript</b> , <b>Ruby on Rails </b> , <b> Python </b> , Health , Big Data </p>
+<p>Here I would mention my passion and experience in <b>data analysis</b>, processing them and providing original solutions</p>
+<p>  I'm also interested in
 developing mobile web apps, building and architecting API services, DevOps and
 Linux server administration. TDD, BDD and CI are also part of my workflow,
 making sure to deliver reliable and high quality code.
+</p>
+
 <p>
-Worked with a lot of languages and technologies  in building, optimizing, and delivering a "perfect" user experience. </p>
-<p>
-Love working with new and inovative
-technologies, getting involved in cool projects and meeting clever and
-interesting people.
-Also a long term Runner, interested in health and running stories.
+Having experience in building complex systems and working directly with the client, I can offer my services that will help to achieve your goals.
 </p>
 
 
+<h2>Skills</h2>
+<div class='container'>
 
-<div class="container">
+          <h3>Object Oriented Programming</h3>
+          <ul>
+              <li>Ruby  </li>
+              <li>Python</li>
+              <li>.NET - C#, VB </li>
+              <li>Design Patterns </li>
+          </ul>
 
-  <div class="row">
-    <div class="col-md-6">
-      <div class="panel panel-info">
-        <div class="panel-heading">
-          <h3 class="panel-title">Ruby and Rails</h3>
-        </div>
-        <div class="panel-body">Experience: 1.5 years
-        <br> Worked for different projects including one startup
-        <br> Submitted some contributions to an open development project.
-        <br> Worked in the full stack -  develop, test, deploy and maintain a quality Rails app.
-        <br> Principles used: DRY, KISS, Convention over configuration, don't reinvent the wheel.
+         <h3>Web Development</h3>
+          <ul>
+              <li>JavaScript/CoffeeScript</li>
+              <li>HTML, CSS</li>
+              <li>Ruby on Rails</li>
+              <li>Flask, Ember.js, Bootstrap </li>
+          </ul>
 
+          <h3>Engineering Practices</h3>
+          <ul>
+              <li>Test Driven Development (TDD)</li>
+              <li>Pair Programming</li>
+              <li>Continuous integration (CI)</li>
+              <li>Version Control (Git) </li>
+          </ul>
 
-        </div>
-      </div>
-    </div>
-    <div class="col-md-6">
-      <div class="panel panel-warning">
-        <div class="panel-heading">
-          <h3 class="panel-title">Gems</h3>
-        </div>
-        <div class="panel-body"> Devise, Omniauth for authentication
-        <br>  Capybara : scenarios for user stories, web application testing.
-        <br>  RSpec: BDD, test driven development for reliable quality code.
-        <br>  Factory-girl, prototyping  models
-        <br> Resque, Sidekiq for background jobs,
-        <br> Capistrano, Unicorn for production deployment
-        </div>
-      </div>
-    </div>
+         <h3>Agile Software Development</h3>
+          <ul>
+              <li>Agile Scrum</li>
+              <li>Agile eXtreme Programming</li>
+              <li>Sprints (1-2 weeks)</li>
+          </ul>
 
-        <div class="col-md-12">
-      <div class="panel panel-success">
-        <div class="panel-heading">
-          <h3 class="panel-title">Other technologies used</h3>
-        </div>
-        <div class="panel-body">Javascript, Html, Css, jQuery - lots of frameworks in javascript, moved to RoR - big step towards modern web apps.
-        <br> Backbone.js, Underscode.js, Bootstrap - don't try to reinvent the wheel, have large collection of templates/snippets
-        <br> Database: PostgreSQL, MySql - relations, indexing, integrity
-        <br> Cross-browser, valid, ie6-able,  Website speed optimization
-        <br> Liquid templating language (for jekyll), LESS. SASS
-        <br> git: great source control, prefer to work on master and not create small unused branches - details established by the client.
-        <br> .NET Framework 10 years experience - worked with whole  Microsoft ecosystem
-  WPF, WCF, Entity Framework, SQL Server, Unit and Integration tests, deployed to Jenkins
-        <br> Photoshop, Gimp: can do some decent image transparency, gradients, layouts in these editors.
-        </div>
-        </div>
-        </div>
+          <h3>Others</h3>
+          <ul>
+              <li>PostgreSQL, MySql, MongoDB</li>
+              <li>Liquid templating language, LESS. SASS</li>
+              <li>Deployed cloud: AWS(EC2, RDS, S3) and Digital Ocean</li>
+              <li>SQL Server performance tuning</li>
+              <li>Reporting Services (SSRS)</li>
+              <li>Entity Framework</li>
+              <li>Photoshop, Gimp</li>
+              <li>DevOps work, Nginx, Apache2 </li>
+          </ul>
 
-                <div class="col-md-12">
-      <div class="panel panel-success">
-        <div class="panel-heading">
-          <h3 class="panel-title">Linux</h3>
-        </div>
-        <div class="panel-body">3 years experience
-        <br> Ubuntu on both my desktop and the server. I can set up a server, install all the software and deploy an application.
-        <br> Prefer minimal small tools that do their job.  Text editors (Sublime Text) and CLI, not IDEs (tried them too)
-        <br> Deployed to Amazon WS and Digital Ocean
-        <br> Prefered Environment: Ruby, Rails, Sublime Text, Terminal
-        </div>
-        </div>
-        </div>
-
-
-</div>
-
-
+<br>
 <p>For more information about my professional profile, check my
 <a href="https://github.com/bbsoft0">github</a> and
 <a href="https://twitter.com/BarbuBujor">twitter</a> accounts , and please visit <br>
